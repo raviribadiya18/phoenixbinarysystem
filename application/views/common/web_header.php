@@ -274,7 +274,7 @@ if ($this->uri->rsegment(1) == "home") {
           <div>
               <ul class="navbar-buttons d-inline-block align-middle">
                 <li class="d-block d-lg-none"><a href="#mobile-menu" data-toggle="offcanvas"><i class="fe-icon-menu"></i></a></li>
-              </ul><a class="btn btn-gradient ml-3 d-none d-xl-inline-block" href="<?=base_url()?>index.php/contact">Contactss</a>
+              </ul><a class="btn btn-gradient ml-3 d-none d-xl-inline-block" href="<?=base_url()?>index.php/contact">Contact</a>
             </div>
 
         </div>
