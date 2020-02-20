@@ -1,0 +1,328 @@
+/*!
+ * 
+ * Sylor HTML5 Template v.1.0.0
+ * 
+ */
+
+
+@media (min-width: 480px) {
+
+.logo {
+  font-size: 24px;
+}
+.control-list > li > span {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.text-lg {
+  font-size: 16px;
+}
+.text-vl {
+  font-size: 18px;
+}
+.text-nm {
+  font-size: 13px;
+}
+.scroller-button {
+  display: inline-block;
+}
+
+.widget-partner-list li {
+  width: 20%;
+}
+.team-box .image figcaption .social-links {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+
+.search-close {
+  width: 55px;
+}
+.site-search-container form {
+  margin-right: 55px;
+}
+
+
+}
+
+
+@media (min-width: 768px) {
+
+.search-close {
+  width: 75px;
+}
+.site-search-container form {
+  margin-right: 75px;
+}
+.site-search-container form .form-control {
+  font-size: 15px;
+  text-transform: none;
+}
+.site-search-container form input[type="submit"] {
+  width: 80px;
+  height: 70px;
+}
+.site-search-container form::after {
+  width: 80px;
+  height: 70px;
+  font-size: 18px;
+}
+
+.navbar-toggle-dt {
+  display: inline-block;
+}
+.navbar-toggle-mb {
+  display: none;
+}
+
+.control-list > li > span {
+  padding: 22px 26px;
+}
+.logo a {
+  display: inline-block;
+  padding: 24px 15px;
+}
+.slider-buttons {
+  display: block;
+}
+.text-lg {
+  font-size: 18px;
+}
+.text-lg span.line-db::before, .text-lg span.line-db::after, .text-lg span.line-sg::before {
+  width: 30px;
+}
+.text-lg span.line-db::before,
+.text-lg span.line-sg::before {
+  left: -15px;
+}
+.text-lg span.line-db::after {
+  right: -15px;
+}
+.text-vl {
+  font-size: 26px;
+}
+.text-nm {
+  font-size: 14px;
+}
+.slider-buttons .btn {
+  margin-right: 10px;
+}
+.text-center .slider-buttons .btn {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.copyright {
+  text-align: right;
+}
+
+.title-box,
+.box {
+  min-height: 268px;
+  padding: 35px 20px;
+}
+.box-news {
+  min-height: 247px;
+}
+.box-news {
+  padding-top: 50px;
+}
+.box-news-2 {
+  padding-top: 70px;
+}
+
+.block-image {
+  min-height: 268px;
+}
+.block-image > img,
+.image-tall > img,
+.image-tall-min > img {
+  opacity: 0;
+}
+.image-tall {
+  min-height: 541px;
+  max-height: 615px;
+  overflow: hidden;
+}
+.image-tall-min {
+  max-height: 268px;
+  overflow: hidden;
+}
+.box-dh {
+  padding-top: 70px;
+  min-height: 542px;
+}
+.box-dh h3,
+.box-dh .owl-wrapper-outer {
+  margin-bottom: 25px;
+}
+
+.info-box {
+  padding-top: 35px;
+  padding-bottom: 15px;
+}
+.title-box .readmore {
+  position: absolute;
+  left: 30px;
+  bottom: 20px;
+}
+.box #map-canvas {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.address-box {
+  font-size: 11px;
+}
+.team-box .image figcaption .social-links {
+  position: relative;
+  top: 0px;
+  right: 0px;
+}
+
+
+
+}
+
+
+@media (min-width: 992px) {
+
+.widget-partners::before {
+  width: 1px;
+  height: 100%;
+  display: block;
+  content: '';
+  background-color: rgba(236,236,236,0.1);
+  position: absolute;
+  left: -10px;
+  top: 0;
+}
+
+.image-tall-min {
+  max-height: none;
+}
+.image-db {
+  min-height: 541px;
+  max-height: 615px;
+  overflow: hidden;
+}
+.image-tall-min > img,
+.image-db > img {
+  opacity: 0;
+}
+
+.contact-box {
+  padding-top: 20px;
+}
+.address-box {
+  font-size: 14px;
+}
+
+textarea.form-control {
+  height: 170px;
+}
+
+}
+
+
+@media (min-width: 1200px) {
+
+.site-search-container form .form-control,
+.site-search-container form input[type="submit"] {
+  height: 80px;
+}
+.site-search-container form::after {
+  height: 80px;
+  line-height: 80px;
+}
+
+.control-list > li > span {
+  padding: 25.5px 26px;
+}
+.logo a {
+  display: inline-block;
+  padding: 28px 15px;
+}
+
+.text-lg {
+  font-size: 24px;
+}
+.text-lg span.line-db::before, .text-lg span.line-db::after, .text-lg span.line-sg::before {
+  width: 40px;
+  height: 1px;
+}
+.text-lg span.line-db::before,
+.text-lg span.line-sg::before {
+  left: -20px;
+}
+.text-lg span.line-db::after {
+  right: -20px;
+}
+.text-vl {
+  font-size: 36px;
+}
+.text-nm {
+  font-size: 14px;
+}
+.slider-buttons .btn {
+  margin-right: 10px;
+}
+.text-center .slider-buttons .btn {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.title-box,
+.box {
+  padding: 35px 30px;
+}
+.box-news {
+  min-height: 230px;
+}
+.box-news {
+  padding-top: 50px;
+}
+.box-news-2 {
+  padding-top: 70px;
+}
+.box-dh {
+  padding-top: 70px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.block-image,
+.image-tall,
+.image-db {
+  min-height: auto;
+}
+.image-tall,
+.image-db {
+  max-height: auto;
+}
+.block-image > img,
+.image-tall > img {
+  opacity: 1;
+}
+
+.list-1 > li + li {
+  padding-top: 15px;
+  margin-top: 15px;
+}
+
+.contact-box {
+  padding-top: 30px;
+}
+.team-box .image figcaption .social-links {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+
+
+}

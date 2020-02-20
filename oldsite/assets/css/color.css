@@ -1,0 +1,98 @@
+/*!
+ * 
+ * Sylor HTML5 Template v.1.0.0
+ * 
+ */
+
+/*
+[Table of contents]
+
+1. Primary Color
+2. Primary Background Color
+3. Primary Border Color
+
+*/
+
+
+/*** Primary Color ***/
+a:hover, a:focus, .text-primary, .navbar-nav li:hover > a, .navbar-nav li.active > a, .caro-prev:hover, .caro-next:hover, .blog-box .text h6,
+.widget-categories li a:hover,
+.widget_categories li a:hover,
+.widget_archive li a:hover, .cdate,
+.metalist, .metalist a {
+  color: #02a8f3;
+}
+
+
+
+/*** Primary Background Color ***/
+
+.bg-primary, .navbar-toggle, .caro-pagin-2 .owl-page.active span, .action-menu, .newsletter-form input[type='submit'], .title-2-primary.title-2::after,
+.reply-link:hover::before {
+  background-color: #387996;
+}
+
+::selection {
+  background-color: #6e40c1;
+}
+::-moz-selection {
+  background-color: #6e40c1;
+}
+
+
+/*** Primary Border Color ***/
+
+.form-control:focus, blockquote, .navbar-nav ul {
+  border-color: #6e40c1;
+}
+.caro-prev:hover::before, .caro-next:hover::before {
+  border-right-color: #6e40c1;
+}
+
+
+
+
+
+
+
+/*** Secondary Color ***/
+a.secondary:hover, a.secondary:focus, .text-secondary, .post-nav a:hover, .post-nav a:focus {
+  color: #02a8f3;
+}
+
+
+
+/*** Secondary Background Color ***/
+
+.bg-secondary, .title-2::after, .widget-social li a:hover {
+  background-color: #02a8f3;
+}
+
+
+/*** Secondary Border Color ***/
+
+.widget-social li a:hover {
+  border-color: #02a8f3;
+}
+
+
+/*** Tertiary Color ***/
+a.tertiary:hover, .text-tertiary {
+  color: #019587;
+}
+
+
+
+/*** Tertiary Background Color ***/
+
+.bg-tertiary {
+  background-color: #019587;
+}
+
+
+/*** Tertiary Border Color ***/
+
+
+.text-green {
+  color: #8ac249;
+}

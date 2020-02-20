@@ -1,0 +1,4 @@
+[29-Dec-2018 12:09:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'vfsStream' not found in /home/mobility/public_html/phoenixbinarysystem.com/tests/Bootstrap.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mobility/public_html/phoenixbinarysystem.com/tests/Bootstrap.php on line 31
