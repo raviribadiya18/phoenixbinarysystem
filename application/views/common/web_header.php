@@ -24,10 +24,6 @@ if ($this->uri->rsegment(1) == "home") {
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-KHNSJRP');</script>
-    
-    
-    <!-- WiserNotify BEGIN --> <script>!function (t, e) { if (t.t4hto4) console.log("WiserNotify pixel installed multiple time in this page"); else { t.t4hto4 = !0; var i = e.getElementsByTagName("head")[0], a = e.createElement("script"); a.type = "text/javascript", a.async = !0,a.defer = !0, a.src = "https://pt.wisernotify.com/pixel.js?ti=4aotvjk6w9l0wi&t=" + Date.now(), i.appendChild(a) } }(window, document);</script> 
-    <!-- WiserNotify END -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131532088-1"></script>
@@ -56,7 +52,7 @@ if ($this->uri->rsegment(1) == "home") {
     <?php }elseif($this->uri->segment(1)=="training_program"){?>
     <title>Web Development Company in Surat: Training Program at Phoenix Binary System</title>
     <?php }else{?>
-      <title>Phoenix Binary System Pvt Ltd | Anand Gujarat India | Surat Gujarat India</title>
+      <title>Phoenix Binary System Pvt Ltd | Anand Gujarat India</title>
     <?php }?>
 
     <!-- <title>Phoenix Binary System Pvt Ltd | Anand Gujarat India</title> -->
