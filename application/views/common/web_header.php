@@ -34,6 +34,12 @@ if ($this->uri->rsegment(1) == "home") {
 
       gtag('config', 'UA-131532088-1');
     </script>
+		
+		<!-- WiserNotify BEGIN --> 
+		<script>!function (t, e) { if (t.t4hto4) console.log("WiserNotify pixel installed multiple time in this page"); else { t.t4hto4 = !0; var i = e.getElementsByTagName("head")[0], a = e.createElement("script"); a.type = "text/javascript", a.async = !0,a.defer = !0, a.src = "https://pt.wisernotify.com/pixel.js?ti=4aotvjk6w9l0wi&t=" + Date.now(), i.appendChild(a) } }(window, document);
+	</script> 
+		<!-- WiserNotify END -->
+
     <meta charset="utf-8">
     <?php if($this->uri->segment(1)=="home"){?>
     <title> SEO, Web Design & Development Company in Anand & Surat</title>
