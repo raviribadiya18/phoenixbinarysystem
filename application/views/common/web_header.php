@@ -144,6 +144,7 @@ if ($this->uri->rsegment(1) == "home") {
                   <li class="dropdown-item"><a href="<?=base_url()?>index.php/services/mobile_app_development">Mobile App Development</a></li>
                   <li class="dropdown-item"><a href="<?=base_url()?>index.php/services/seo">Search Engine Optimization</a></li>
                   <li class="dropdown-item"><a href="<?=base_url()?>index.php/services/cryptocurrency_development">Cryptocurrency Development</a></li>
+                  <li class="dropdown-item"><a href="#">Matrix Plan (MLM)</a></li>
                   <li class="dropdown-header"><i class="fe-icon-shopping-bag"></i>&nbsp;&nbsp;GRAPHIC DESIGN SERVICES</li>
                   <li class="dropdown-item"><a href="<?=base_url()?>index.php/services">Branding</a></li>
                   <li class="dropdown-item"><a href="<?=base_url()?>index.php/services">Brochure Design</a></li>
@@ -232,6 +233,7 @@ if ($this->uri->rsegment(1) == "home") {
                         <li><a href="<?=base_url()?>index.php/services/mobile_app_development">Mobile App Development</a></li>
                         <li><a href="<?=base_url()?>index.php/services/cryptocurrency_development">Cryptocurrency Development</a></li>
                         <li><a href="<?=base_url()?>index.php/services/seo">Search Engine Optimization</a></li>
+                        <li><a href="#">Matrix Plan (MLM)</a></li>
                       </ul>
                     </div>
                   </div>
