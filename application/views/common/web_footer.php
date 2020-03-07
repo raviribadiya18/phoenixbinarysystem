@@ -67,13 +67,13 @@
         <div class="footer-b-r">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
             <a href="https://api.whatsapp.com/send?phone=918866220223&text=Hi%21%20" class="float" target="_blank">
-            <img src="<?=base_url();?>assets/img/icons/whatsapp.png">
+            <img src="<?=asset_path();?>assets/img/icons/whatsapp.png">
             <!--<i class="fa fa-whatsapp my-float"></i>-->
             </a>
         </div>
         <a href="skype:live:phoenixbinary224?chat" target="_blank">
           <div class="foo_bottom_skype">
-            <img src="<?=base_url();?>assets/img/icons/skype.png" class="feedback_skype">
+            <img src="<?=asset_path();?>assets/img/icons/skype.png" class="feedback_skype">
           </div>
         </a>
     </footer>
